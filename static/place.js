@@ -1,0 +1,5 @@
+// const places = [
+//   {
+//     title: "green",
+//   },
+// ];
